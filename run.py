@@ -3,3 +3,9 @@ def add(x,y):
 
 def sub(x,y):
 	return x - y
+
+def multi(x,y):
+	return x 8 y
+
+def mult2(x,y,z):
+	return x*y*z
